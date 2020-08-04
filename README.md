@@ -66,4 +66,14 @@ node index.js
 ## Finally, .gitignore and submit a PR!
 
 * add a `.gitignore` to this assignment, so the `node_modules` folder doesn't upload to github
+```bash
+touch .gitignore
+```
+- then, in text editor, add "node_modules" to the new .gitignore so when you push your updates to your GitHub repo, the Node package (which can be substantial) are not included.
+
 * Submit this assignment by making a pull request
+
+
+### Cabassa's Repo Link
+- https://github.com/decpdx584/node_modules_practice
+
