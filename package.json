@@ -1,0 +1,20 @@
+{
+  "name": "node_modules_practice",
+  "version": "1.0.0",
+  "description": "1. Fork and clone this repo 2. Initialize node in your cloned repo so it becomes a node project!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decpdx584/node_modules_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/decpdx584/node_modules_practice/issues"
+  },
+  "homepage": "https://github.com/decpdx584/node_modules_practice#readme"
+}

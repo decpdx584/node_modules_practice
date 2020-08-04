@@ -1,0 +1,1 @@
+module.exports.faveFood = ["tots", "pepperoni-mushroom pizza", "nachos", "caramelized onions"];
