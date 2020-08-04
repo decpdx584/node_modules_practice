@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/decpdx584/node_modules_practice/issues"
   },
-  "homepage": "https://github.com/decpdx584/node_modules_practice#readme"
+  "homepage": "https://github.com/decpdx584/node_modules_practice#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
 }
